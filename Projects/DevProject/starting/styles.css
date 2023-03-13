@@ -1,0 +1,79 @@
+.title{
+    margin: 25px auto;
+    /*border: 1px solid grey;*/
+    width: 85%;
+    font-family: 'Roboto Mono', monospace;
+}
+.container{
+    border: 1px solid grey;
+    margin: 25px auto;
+    padding: 20px;
+    width: 80%;
+    font-family: 'Roboto Mono', monospace;
+}
+.block{
+    display: inline-block;
+    margin: 50px auto;
+    padding: 20px;
+    /*border: 1px solid grey;*/
+    width: 25%;
+    text-align: center;
+    
+    
+}
+.CoolBlue{
+    background-color: #2d5dcc;
+    color: #ffffff ;
+}
+.Pink{
+    background-color: #d957d9;
+}
+.MintGreen{
+    background-color: #4fe0b0;
+}
+
+
+.Beige{
+    display: block;
+    /*border: 1px solid grey;*/
+    width: 25%;
+    padding: 20px;
+    background-color: #efd9ca;
+    text-align: center;
+
+}
+.font{
+    display: inline-block;
+    width: 45%;
+}
+.font_name{
+    text-decoration: underline;
+    font-size: 1.3em;
+}
+.Source_Code{
+    font-family: 'Source Crode Pro', monospace;
+}
+.Nunito_Sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.Poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.bold{
+    font-weight: bolder;
+}
+.italic{
+    font-style: italic;
+}
+.h1{
+    font-weight: bold;
+    font-size: 26px;
+}
+.h2{
+    font-weight: 500;
+    font-size: 18px;
+}
+.paragraph{
+    font-weight: 400;
+    font-size: 14px;
+}
